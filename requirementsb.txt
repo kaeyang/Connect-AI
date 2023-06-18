@@ -1,0 +1,10 @@
+openai
+pynput
+numpy
+gTTS
+opencv-python
+hume
+hume[stream]
+colorama
+pygame
+langchain
