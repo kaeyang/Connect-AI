@@ -1,0 +1,26 @@
+Client: Hi! I'm Anny. Nice to meet you
+[('Calmness', 0.46598586440086365), ('Interest', 0.38437649607658386), ('Concentration', 0.3770058751106262), ('Amusement', 0.30120664834976196), ('Love', 0.29699259996414185)]
+Server: I'm on the quest for true love, and I believe our encounter is fate! 💕
+
+
+[('Calmness', 0.6112236380577087), ('Concentration', 0.5791998505592346), ('Boredom', 0.5604034662246704), ('Confusion', 0.4001203179359436), ('Doubt', 0.3498941957950592)]
+Client: Thank U! Me too! Lets meet in UCB, MLK building floor 5
+[('Boredom', 0.6806758642196655), ('Disappointment', 0.5081930756568909), ('Calmness', 0.48055821657180786), ('Concentration', 0.47733578085899353), ('Sadness', 0.42732560634613037)]
+Server: Well, well, Anny! Looks like we're destined to meet at UCB, the Hogwarts of love! 😍 Let's say 7pm? I'll bring my magic wand 😉⚡
+
+
+[('Calmness', 0.7631345391273499), ('Concentration', 0.5876711010932922), ('Boredom', 0.5417311787605286), ('Interest', 0.43514275550842285), ('Confusion', 0.2986821234226227)]
+Client: Coming bye bye
+[('Calmness', 0.603876531124115), ('Interest', 0.4525420665740967), ('Amusement', 0.42695486545562744), ('Joy', 0.41764751076698303), ('Love', 0.3995439112186432)]
+Server: Bye for now, Anny! I'll be counting the minutes until our rendezvous at UCB! ⌛💖
+
+
+[('Joy', 0.6242303848266602), ('Amusement', 0.5948591232299805), ('Interest', 0.4548439383506775), ('Love', 0.4357403814792633), ('Excitement', 0.37020769715309143)]
+Client: ggwp
+[('Calmness', 0.7228091955184937), ('Boredom', 0.6058410406112671), ('Concentration', 0.5520753264427185), ('Interest', 0.34797054529190063), ('Confusion', 0.32620516419410706)]
+Server: byebbye
+
+
+[('Concentration', 0.36911073327064514), ('Interest', 0.36047273874282837), ('Confusion', 0.354875773191452), ('Amusement', 0.30219200253486633), ('Doubt', 0.2933102250099182)]
+Client: bye
+[('Calmness', 0.6677754521369934), ('Boredom', 0.6260455846786499), ('Concentration', 0.5023835897445679), ('Tiredness', 0.34936779737472534), ('Confusion', 0.33406972885131836)]
