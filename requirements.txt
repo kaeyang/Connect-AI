@@ -8,3 +8,6 @@ hume[stream]
 colorama
 pygame
 langchain
+psycopg2
+os
+pandas
